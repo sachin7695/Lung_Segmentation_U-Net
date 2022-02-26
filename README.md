@@ -14,7 +14,7 @@ The block diagram of the UNET architecture.
 | *U-Net Architecture* |
 
 <h1>Acknowledgements&nbsp;:</h1>
-Data: https://drive.google.com/drive/folders/1_yTzXmlGF6osaMtqP-rjoWVKujsFKWFc
+Data: https://drive.google.com/drive/folders/1PiIYbf8wcpzVvPQY-4g0oqPkkrMpFhd9
 
 # Results
 The images below contains:
